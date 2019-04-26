@@ -1,4 +1,4 @@
-token= NTI4MDY2OTA4OTgxODIxNDUw.XKzNuw.sE5I54usror4cAZub0p81OWvbmE
+token=
 owner= 434642311591493632 
 prefix= wm
 game= wmhelp
